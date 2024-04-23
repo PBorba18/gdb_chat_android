@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "981898657798",
+    "project_id": "gdbchat-3ad4d",
+    "storage_bucket": "gdbchat-3ad4d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:981898657798:android:e54ea80ac314b35e44c387",
+        "android_client_info": {
+          "package_name": "com.example.chatfirebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqjQSJ39M9d7cnPprgJr7uTBe6RtubqgI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
